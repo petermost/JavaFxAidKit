@@ -1,7 +1,7 @@
 package com.pera_software.company;
 
-import static org.junit.Assert.assertNotNull;
-import org.junit.Test;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import org.junit.jupiter.api.Test;
 import com.pera_software.aidkit.io.ResourceNotFoundException;
 
 public class PERAResourcesTest {
